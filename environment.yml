@@ -356,7 +356,6 @@ dependencies:
   # - pyqt5-sip=12.12.2=py39h3d6467e_4
   # - pyqtwebkit=5.15.9=py39ha048f5d_1
   # - pysocks=1.7.1=pyha2e5f31_6
-  # - python=3.9.16=h2782a2a_0_cpython
   # - python-dateutil=2.8.2=pyhd8ed1ab_0
   # - python-dotenv=1.0.1=pyhd8ed1ab_0
   # - python-fastjsonschema=2.18.0=pyhd8ed1ab_0
@@ -491,6 +490,7 @@ dependencies:
   - numpy # =1.23.5 # =py39h3d75532_0
   - pandas # =1.5.3 # =py39h2ad29b5_1
   - pip # =23.2.1 # =pyhd8ed1ab_0
+  - python=3.9.16=h2782a2a_0_cpython
   - qgis=3.32.2 # =py39h35b57c4_0
   - rasterio # =1.3.8 # =py39head80b8_0
   - scikit-learn # =1.3.0 # =py39hc236052_0
